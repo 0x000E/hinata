@@ -1,7 +1,7 @@
 <br><br>
 
 <p align="center">
-<a href="https://github.com/LuisMaya"><img width="140" src="./website/images/logo.png" alt="yuumi logo"></a>
+<a href="https://github.com/LuisMaya"><img width="140" src="./website/images/logo.png" alt="hinata logo"></a>
 </p>
 <br>
 
