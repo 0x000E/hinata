@@ -8,7 +8,7 @@
 <br><br>
 
 # hinata
-A Neural Network developed using C++
+A Neural Network developed using Python.
 
 ## Documentation
 
