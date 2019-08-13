@@ -8,7 +8,7 @@
 <br><br>
 
 # hinata
-A Neural Network developed using Python.
+A Neural Network developed using Python. Hinata is currently configured to run with the [MNIST database](https://en.wikipedia.org/wiki/MNIST_database).
 
 ## Documentation
 
