@@ -16,4 +16,4 @@ The source code of hinata can be found [here](./src/).
 
 ## License
 
-MIT &copy; [Luis Maya Aranda](https://github.com/LuisMaya)
+MIT &copy; [Luis Maya Aranda](https://github.com/0x000E)
