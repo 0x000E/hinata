@@ -1,7 +1,7 @@
 <br><br>
 
 <p align="center">
-<a href="https://github.com/LuisMaya"><img width="140" src="./website/images/logo.png" alt="hinata logo"></a>
+<a href="https://github.com/3SUM"><img width="140" src="./website/images/logo.png" alt="hinata logo"></a>
 </p>
 <br>
 
@@ -16,4 +16,4 @@ The source code of hinata can be found [here](./src/).
 
 ## License
 
-MIT &copy; [Luis Maya Aranda](https://github.com/0x000E)
+MIT &copy; [Luis Maya Aranda](https://github.com/3SUM)
